@@ -1,0 +1,1526 @@
+{
+    "lens_id": "ee0200e5-a181-44b1-b8fd-e6e299686bb2",
+    "document_id": "qqpdi1_chOUDYAWju4IG",
+    "original_document_id": "qqpdi1_chOUDYAWju4IG",
+    "version": "24",
+    "lastChanged": "1592954236859",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "2020-06-23T16:03:33.238Z",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Goudy Old Style Bold Italic"
+                    ],
+                    [
+                        "bottles"
+                    ],
+                    [
+                        "bottles",
+                        "blackberry"
+                    ],
+                    [
+                        "bottles",
+                        "cherry"
+                    ],
+                    [
+                        "bottles",
+                        "peach"
+                    ],
+                    [
+                        "bottles",
+                        "raspberry"
+                    ],
+                    [
+                        "bottles",
+                        "sparkling"
+                    ],
+                    [
+                        "bottles 2"
+                    ],
+                    [
+                        "icons"
+                    ],
+                    [
+                        "icons",
+                        "icon"
+                    ],
+                    [
+                        "icons",
+                        "notext"
+                    ],
+                    [
+                        "icons",
+                        "notext",
+                        "bn"
+                    ],
+                    [
+                        "icons",
+                        "notext",
+                        "cn"
+                    ],
+                    [
+                        "icons",
+                        "notext",
+                        "pn"
+                    ],
+                    [
+                        "icons",
+                        "notext",
+                        "rn"
+                    ],
+                    [
+                        "icons",
+                        "notext",
+                        "sn"
+                    ],
+                    [
+                        "icons",
+                        "swap"
+                    ],
+                    [
+                        "scripts"
+                    ],
+                    [
+                        "scripts",
+                        "Behavior"
+                    ],
+                    [
+                        "scripts",
+                        "button"
+                    ],
+                    [
+                        "scripts",
+                        "swap"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "98c4fce4ff99681625de7cee37bb414f",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_show_your_hand"
+            ],
+            "lens": "Clearly Canadian",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Hand.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Hand Palm Moving.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1592834273507138:175987",
+                    "name": "Files\/File16.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1592835806860700:351123",
+                    "name": "Files\/File29.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1592835806911553:351134",
+                    "name": "Files\/File31.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1592835806953253:351156",
+                    "name": "Files\/File35.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1592835807002026:351174",
+                    "name": "Files\/File39.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1592835807122424:351200",
+                    "name": "Files\/File43.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1592838001660497:308156",
+                    "name": "Files\/File55.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1592844759393262:186274",
+                    "name": "Files\/File65.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1592844760383226:186385",
+                    "name": "Files\/File67.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1592844761240881:186492",
+                    "name": "Files\/File69.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1592844762083207:186595",
+                    "name": "Files\/File71.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1592844762141443:186610",
+                    "name": "Files\/File73.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1592847222535826:2808",
+                    "name": "Files\/File75.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1592847563164121:52272",
+                    "name": "Files\/File77.zip",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1592852118146778:96649",
+                    "name": "Files\/File78.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1592852313803466:119095",
+                    "name": "Files\/File80.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1592854585990572:455013",
+                    "name": "Files\/File81.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1592854799313618:509283",
+                    "name": "Files\/File83.otf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1592833472956392:90899",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592833473025684:91033",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592833473057998:91179",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592837052159522:56512",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592837052212260:56654",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592837579837768:180035",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592837586224699:185309",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592837594186152:192000",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592837721334226:235387",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592852496473490:134882",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592854639181931:463008",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "true",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592854745595030:490387",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592855271252053:605437",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1592857729204116:34807",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "true",
+                                    "fixHeight": "true",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "true"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1592833472928772:90829",
+                "4": "1592833472950818:90898",
+                "5": "1592833473025500:91032",
+                "6": "1592833473057591:91178",
+                "7": "1592837052156861:56510",
+                "8": "1592837052211666:56653",
+                "9": "1592837579257995:179089",
+                "10": "1592837585953612:184387",
+                "11": "1592837593896915:191082",
+                "12": "1592837721107700:234473",
+                "13": "1592852496197617:134469",
+                "14": "1592854639179974:463007",
+                "15": "1592854745594838:490386",
+                "16": "1592855271249845:605435",
+                "17": "1592857729167176:34543"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "16",
+                    "v": "Files\/File16.js"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.png"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.js"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.png"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.png"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.png"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.png"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.png"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.png"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.js"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.zip"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.png"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.png"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.js"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.png"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.png"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.otf"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "2",
+                        "v": "bottles"
+                    },
+                    {
+                        "k": "8",
+                        "v": "icons"
+                    },
+                    {
+                        "k": "9",
+                        "v": "icons\/notext"
+                    },
+                    {
+                        "k": "10",
+                        "v": "icons\/notext\/cn.png"
+                    },
+                    {
+                        "k": "11",
+                        "v": "icons\/notext\/bn.png"
+                    },
+                    {
+                        "k": "12",
+                        "v": "icons\/notext\/pn.png"
+                    },
+                    {
+                        "k": "13",
+                        "v": "icons\/notext\/rn.png"
+                    },
+                    {
+                        "k": "14",
+                        "v": "icons\/notext\/sn.png"
+                    },
+                    {
+                        "k": "17",
+                        "v": "scripts"
+                    },
+                    {
+                        "k": "18",
+                        "v": "scripts\/Behavior.js"
+                    },
+                    {
+                        "k": "19",
+                        "v": "scripts\/button.js"
+                    },
+                    {
+                        "k": "27",
+                        "v": "bottles\/raspberry.png"
+                    },
+                    {
+                        "k": "28",
+                        "v": "bottles\/peach.png"
+                    },
+                    {
+                        "k": "29",
+                        "v": "bottles\/cherry.png"
+                    },
+                    {
+                        "k": "30",
+                        "v": "bottles\/blackberry.png"
+                    },
+                    {
+                        "k": "31",
+                        "v": "bottles\/sparkling.png"
+                    },
+                    {
+                        "k": "32",
+                        "v": "scripts\/close.js"
+                    },
+                    {
+                        "k": "34",
+                        "v": "bottles 2.zip"
+                    },
+                    {
+                        "k": "35",
+                        "v": "icons\/swap.png"
+                    },
+                    {
+                        "k": "36",
+                        "v": "scripts\/swap.js"
+                    },
+                    {
+                        "k": "37",
+                        "v": "icons\/icon.png"
+                    },
+                    {
+                        "k": "38",
+                        "v": "Goudy Old Style Bold Italic.otf"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "3",
+                        "v": "70f859bcc022da4d18ae155bb88c2ca5"
+                    },
+                    {
+                        "k": "4",
+                        "v": "1c3426caf9650a3665b90150e8f0c108"
+                    },
+                    {
+                        "k": "5",
+                        "v": "9563dc8bd03919ffa7f29896d6463da5"
+                    },
+                    {
+                        "k": "6",
+                        "v": "daefe5a17dd2acfedc5dc9ecab166fb1"
+                    },
+                    {
+                        "k": "7",
+                        "v": "345324cd1cfe6a8298c1b6aa82a470b0"
+                    },
+                    {
+                        "k": "10",
+                        "v": "c11adeeed97548e15507088cec0745ba"
+                    },
+                    {
+                        "k": "11",
+                        "v": "e27365fa4f9f7b008c0785dc7c6e69d0"
+                    },
+                    {
+                        "k": "12",
+                        "v": "6cce9941bdd7e4cb840bc82995d7e6e3"
+                    },
+                    {
+                        "k": "13",
+                        "v": "185ccacaf570902cbe8a3a1be9d2826f"
+                    },
+                    {
+                        "k": "14",
+                        "v": "6d6050488974dbbdd31b02302d8fa7eb"
+                    },
+                    {
+                        "k": "15",
+                        "v": "8f5ef3010dbbc74e750f4499cb6fe5a2"
+                    },
+                    {
+                        "k": "16",
+                        "v": "ef831fd8df51cff0fcc18085053fe595"
+                    },
+                    {
+                        "k": "18",
+                        "v": "28d340e48fb1e441f05af039a46534b2"
+                    },
+                    {
+                        "k": "19",
+                        "v": "6577e5373dc76f66f0544cd7cf96eb0f"
+                    },
+                    {
+                        "k": "20",
+                        "v": "acffb2d871a2794144c573bc307083bf"
+                    },
+                    {
+                        "k": "21",
+                        "v": "2f1dbd2146244dfae60cfa2974c671ec"
+                    },
+                    {
+                        "k": "22",
+                        "v": "8c2670ef3e5f7ce9d7f879ad2dd70019"
+                    },
+                    {
+                        "k": "23",
+                        "v": "4cc19c27e89a6eb63c2166ed517836b8"
+                    },
+                    {
+                        "k": "24",
+                        "v": "7438796e495c8de406691be448d7bd41"
+                    },
+                    {
+                        "k": "25",
+                        "v": ""
+                    },
+                    {
+                        "k": "26",
+                        "v": ""
+                    },
+                    {
+                        "k": "27",
+                        "v": "bda8f8bbae948d637580c34f4654d454"
+                    },
+                    {
+                        "k": "28",
+                        "v": "5a1bbd0b49faf0f5424e481662dc8b05"
+                    },
+                    {
+                        "k": "29",
+                        "v": "ca55687f19a3925419d994f5977d2cb8"
+                    },
+                    {
+                        "k": "30",
+                        "v": "ece6c8b2df6a724939d694fa98739edc"
+                    },
+                    {
+                        "k": "31",
+                        "v": "94be39b44c9e184bbddae70b681d9c94"
+                    },
+                    {
+                        "k": "32",
+                        "v": "dab32c3b4560ee50602fceee55df5529"
+                    },
+                    {
+                        "k": "33",
+                        "v": "b9987cd16e51da9406d69466ae5ef64b"
+                    },
+                    {
+                        "k": "34",
+                        "v": "313c52178466ee6112d620cb701447fa"
+                    },
+                    {
+                        "k": "35",
+                        "v": "e221ad3fbdba5c148c3672a561b10417"
+                    },
+                    {
+                        "k": "36",
+                        "v": "607e619fab12ecf3ae026b9eb270e091"
+                    },
+                    {
+                        "k": "37",
+                        "v": "73f1f9daa9517b22381cffdf5ae4d0fd"
+                    },
+                    {
+                        "k": "38",
+                        "v": "a153f13b5031ec0479e0eb60f2480031"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-06-22T15:39:59",
+                        "name": "Public",
+                        "hash": "ef52b3668b9e19e714e44e3f94524e98",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-22T13:39:21",
+                                "name": "bottles 2.zip",
+                                "hash": "313c52178466ee6112d620cb701447fa",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-22T14:42:45",
+                                "name": "bottles",
+                                "hash": "c00afa04055f194e9225e274435011c7",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T17:32:02",
+                                        "name": "raspberry.png",
+                                        "hash": "bda8f8bbae948d637580c34f4654d454",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T17:32:02",
+                                        "name": "peach.png",
+                                        "hash": "5a1bbd0b49faf0f5424e481662dc8b05",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T17:32:02",
+                                        "name": "cherry.png",
+                                        "hash": "ca55687f19a3925419d994f5977d2cb8",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T17:32:02",
+                                        "name": "blackberry.png",
+                                        "hash": "ece6c8b2df6a724939d694fa98739edc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T14:42:37",
+                                        "name": "sparkling.png",
+                                        "hash": "94be39b44c9e184bbddae70b681d9c94",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T12:39:39",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-22T15:36:25",
+                                "name": "icons",
+                                "hash": "5f4a01c89ace5d64f80a606fee38a549",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T15:36:02",
+                                        "name": "icon.png",
+                                        "hash": "73f1f9daa9517b22381cffdf5ae4d0fd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T14:55:47",
+                                        "name": "swap.png",
+                                        "hash": "e221ad3fbdba5c148c3672a561b10417",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-06-22T13:21:40",
+                                        "name": "notext",
+                                        "hash": "b9fc7ed1a52520d02a000b772580a849",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-22T17:20:08",
+                                                "name": "cn.png",
+                                                "hash": "c11adeeed97548e15507088cec0745ba",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-22T17:20:08",
+                                                "name": "bn.png",
+                                                "hash": "e27365fa4f9f7b008c0785dc7c6e69d0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-22T17:20:08",
+                                                "name": "pn.png",
+                                                "hash": "6cce9941bdd7e4cb840bc82995d7e6e3",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-22T17:20:08",
+                                                "name": "rn.png",
+                                                "hash": "185ccacaf570902cbe8a3a1be9d2826f",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-22T17:20:08",
+                                                "name": "sn.png",
+                                                "hash": "6d6050488974dbbdd31b02302d8fa7eb",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-06-22T12:36:03",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T12:39:39",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-23T12:00:27",
+                                "name": "scripts",
+                                "hash": "c6e2aa4e3d275ee7a0482361e28edee7",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-23T12:00:27",
+                                        "name": "swap.js",
+                                        "hash": "607e619fab12ecf3ae026b9eb270e091",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T12:39:37",
+                                        "name": "Behavior.js",
+                                        "hash": "28d340e48fb1e441f05af039a46534b2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T13:49:19",
+                                        "name": "close.js",
+                                        "hash": "dab32c3b4560ee50602fceee55df5529",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T13:43:20",
+                                        "name": "button.js",
+                                        "hash": "6577e5373dc76f66f0544cd7cf96eb0f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-22T12:39:39",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2014-12-27T09:28:04",
+                                "name": "Goudy Old Style Bold Italic.otf",
+                                "hash": "a153f13b5031ec0479e0eb60f2480031",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-22T12:39:39",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "bottles",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "raspberry",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "42",
+                                "dependency": "0",
+                                "uid": "1592844759393262:186274",
+                                "fileId": "65",
+                                "originalId": "66",
+                                "publicId": "27",
+                                "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/bottles\/raspberry.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "peach",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "43",
+                                "dependency": "0",
+                                "uid": "1592844760383226:186385",
+                                "fileId": "67",
+                                "originalId": "68",
+                                "publicId": "28",
+                                "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/bottles\/peach.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "cherry",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "44",
+                                "dependency": "0",
+                                "uid": "1592844761240881:186492",
+                                "fileId": "69",
+                                "originalId": "70",
+                                "publicId": "29",
+                                "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/bottles\/cherry.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "blackberry",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "45",
+                                "dependency": "0",
+                                "uid": "1592844762083207:186595",
+                                "fileId": "71",
+                                "originalId": "72",
+                                "publicId": "30",
+                                "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/bottles\/blackberry.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "sparkling",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "46",
+                                "dependency": "0",
+                                "uid": "1592844762141443:186610",
+                                "fileId": "73",
+                                "originalId": "74",
+                                "publicId": "31",
+                                "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/bottles\/sparkling.png",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "icons",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "notext",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "9",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "cn",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "uid": "1592835806860700:351123",
+                                        "fileId": "29",
+                                        "originalId": "30",
+                                        "publicId": "10",
+                                        "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/icons\/notext\/cn.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "bn",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "uid": "1592835806911553:351134",
+                                        "fileId": "31",
+                                        "originalId": "32",
+                                        "publicId": "11",
+                                        "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/icons\/notext\/bn.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "pn",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "uid": "1592835806953253:351156",
+                                        "fileId": "35",
+                                        "originalId": "36",
+                                        "publicId": "12",
+                                        "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/icons\/notext\/pn.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "rn",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "28",
+                                        "dependency": "0",
+                                        "uid": "1592835807002026:351174",
+                                        "fileId": "39",
+                                        "originalId": "40",
+                                        "publicId": "13",
+                                        "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/icons\/notext\/rn.png",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "sn",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "uid": "1592835807122424:351200",
+                                        "fileId": "43",
+                                        "originalId": "44",
+                                        "publicId": "14",
+                                        "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/icons\/notext\/sn.png",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "swap",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "50",
+                                "dependency": "0",
+                                "uid": "1592852118146778:96649",
+                                "fileId": "78",
+                                "originalId": "79",
+                                "publicId": "35",
+                                "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/icons\/swap.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "icon",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "52",
+                                "dependency": "0",
+                                "uid": "1592854585990572:455013",
+                                "fileId": "81",
+                                "originalId": "82",
+                                "publicId": "37",
+                                "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/icons\/icon.png",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "17",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Behavior",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "uid": "1592834273507138:175987",
+                                "fileId": "16",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18",
+                                "source": "\/private\/var\/folders\/hs\/mzjh9f4j3yd4sl0c0jmd1ts80000gn\/T\/Lens Studio-ryaPWF\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "button",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "36",
+                                "dependency": "0",
+                                "uid": "1592838001660497:308156",
+                                "fileId": "55",
+                                "originalId": "18446744073709551615",
+                                "publicId": "19",
+                                "source": "\/private\/var\/folders\/hs\/mzjh9f4j3yd4sl0c0jmd1ts80000gn\/T\/Lens Studio-nDHPzN\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "close",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "47",
+                                "dependency": "0",
+                                "uid": "1592847222535826:2808",
+                                "fileId": "75",
+                                "originalId": "18446744073709551615",
+                                "publicId": "32",
+                                "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/scripts\/close.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "swap",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "51",
+                                "dependency": "0",
+                                "uid": "1592852313803466:119095",
+                                "fileId": "80",
+                                "originalId": "18446744073709551615",
+                                "publicId": "36",
+                                "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/scripts\/swap.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "bottles 2",
+                        "type": "7",
+                        "subtype": "0",
+                        "resourceId": "49",
+                        "dependency": "0",
+                        "uid": "1592847563164121:52272",
+                        "fileId": "77",
+                        "originalId": "18446744073709551615",
+                        "publicId": "34",
+                        "source": "\/Users\/jtepp\/compSci\/Lens Studio\/clearly\/Public\/bottles.zip",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Goudy Old Style Bold Italic",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "53",
+                        "dependency": "0",
+                        "uid": "1592854799313618:509283",
+                        "fileId": "83",
+                        "originalId": "18446744073709551615",
+                        "publicId": "38",
+                        "source": "\/Users\/jtepp\/Downloads\/Goudy Old Style Bold Italic.otf",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
